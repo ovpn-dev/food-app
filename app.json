@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "crypto-tracker",
-    "slug": "crypto-tracker",
+    "name": "food-app",
+    "slug": "food-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "cryptotracker",
+    "scheme": "foodapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
